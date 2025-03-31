@@ -11,6 +11,9 @@ Diese Analyse bietet eine detaillierte Untersuchung der finanziellen Performance
 ## 📊 Dashboard 
 Sie können auf das interaktive Dashboard, das mit Power BI erstellt wurde, über den folgenden Link zugreifen 👉🏼 📊 Dashboard
 
+https://app.powerbi.com/view?r=eyJrIjoiMTdlMTE0MjAtNmU5MS00MDE1LTgyOTYtMjVlOTFiZWMxYTgyIiwidCI6IjlmZjhiOTdlLTFkYzMtNGQ0ZC1iZTU0LTA4ZDk1ZTEzZDcwMyJ9
+
+
 ## 🗃️ Bericht herunterladen 
 Sie können den Bericht als pbix-Datei herunterladen.<br>
 Kontaktieren Sie mich bitte hierfür unter folgender E-Mail: 🗃️ azat.erol@hotmail.com 
@@ -24,7 +27,7 @@ Durch die Nutzung der robusten Fähigkeiten von Power BI umfasste das Projekt Da
 
 # 🖇️ Modell 
 Die Datenmodellierungsphase umfasste die Erstellung eines relationalen Datenmodells, das die Beziehungen zwischen Umsatz, Ausgaben, Geschäftsbereichen und Finanzkennzahlen widerspiegelt.<br>
-![ss](https://github.com/4zatero7/Finanz_Analyse/blob/main/semantik_modell.png?raw=true)
+![ModelView](https://github.com/4zatero7/Finanz_Analyse/blob/main/semantik_modell.png?raw=true)
 
 ## ❓ Schlüsselfragen, die das Projekt beantwortet 
 ✅ 1. Wie hoch ist der Gesamtumsatz, der von jedem Geschäftsbereich generiert wird? <br>
