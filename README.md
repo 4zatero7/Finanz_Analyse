@@ -9,9 +9,7 @@ Diese Analyse bietet eine detaillierte Untersuchung der finanziellen Performance
 </div>
 
 ## 📊 Dashboard 
-Sie können auf das interaktive Dashboard, das mit Power BI erstellt wurde, über den folgenden Link zugreifen 👉🏼 📊 Dashboard
-
-https://app.powerbi.com/view?r=eyJrIjoiMTdlMTE0MjAtNmU5MS00MDE1LTgyOTYtMjVlOTFiZWMxYTgyIiwidCI6IjlmZjhiOTdlLTFkYzMtNGQ0ZC1iZTU0LTA4ZDk1ZTEzZDcwMyJ9
+Sie können auf das interaktive Dashboard, das mit Power BI erstellt wurde, über den folgenden Link zugreifen 👉🏼 📊 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2YzZDdmZTEtZmU5NC00MDc1LTlhYmMtYTg0Y2ZlMzRjMDg3IiwidCI6IjlmZjhiOTdlLTFkYzMtNGQ0ZC1iZTU0LTA4ZDk1ZTEzZDcwMyJ9)
 
 
 ## 🗃️ Bericht herunterladen 
