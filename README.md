@@ -3,7 +3,7 @@
 Diese Analyse bietet eine detaillierte Untersuchung der finanziellen Performance eines Sportartikelherstellers und konzentriert sich dabei auf wichtige Finanzkennzahlen wie Umsatz, Ausgaben und Rentabilität. #PowerBI
 
 <div style="display: flex; justify-content: center;">
-    <a href="https://www.linkedin.com/in/azat-erol/" target="_blank">
+    <a href="https://www.linkedin.com/in/azat-erol/" target="_blank" title="Zu LinkedIn Seite von Azat Erol wechseln">
         <img src="https://github.com/4zatero7/Finanz_Analyse/blob/main/cover_finanz_analyse.png?raw=true" alt="ss" width="500"/>
     </a>
 </div>
